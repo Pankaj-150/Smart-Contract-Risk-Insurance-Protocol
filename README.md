@@ -2,7 +2,7 @@
 
 ## 📖 Project Description
 
-This decentralized insurance protocol allows users to purchase policies against smart contract risks and submit claims in case of losses due to contract failures or exploits. The protocol provides a trustless, on-chain claim approval mechanism governed by the contract owner or Everyone can use.you can use this.hey you can experience this amazing project.
+This decentralized insurance protocol allows users to purchase policies against smart contract risks and submit claims in case of losses due to contract failures or exploits. The protocol provides a trustless, on-chain claim approval mechanism governed by the contract owner or Everyone can use.you can use this.hey you can experience this amazing project.This is an amazing project.
 
 ## 🌍 Project Vision
 
