@@ -13,7 +13,7 @@ To build a transparent, permissionless, and efficient system that helps users he
 - Purchase insurance with ETH premium
 - Policy coverage based on a fixed multiplier of the premium
 - Claim submission and on-chain approval process
-- Owner can approve or reject claims with reason
+- Owner can approve and reject claims with reason
 - Funds are paid out directly on claim approval
 
 ## 🚀 Future Scope
