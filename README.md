@@ -1,4 +1,4 @@
-# Smart Contract Risk Insurance Protocol.
+## Smart Contract Risk Insurance Protocol.
 
 ## 📖 Project Description
 
