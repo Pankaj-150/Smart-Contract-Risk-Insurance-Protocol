@@ -1,6 +1,6 @@
 ## Smart Contract Risk Insurance Protocol.
 
-## 📖 Project Description
+##  Project Description
 
 This decentralized. Insurance protocol allows users to purchase policies against smart contract risks and submit claims in case of losses due to contract failures or exploits. The protocol provides a trustless, on-chain claim approval mechanism governed by the contract owner or everyone can use this.This protocol is open to everyone. You can experience the power of decentralized insurance through this platform.The protocol ensures fairness by allowing the contract owner to approve or reject claim with full accountability. open to all, the platform harnesses the power of decentralized finance (DeFi) to offer secure, accessible, and verifiable insurance—giving users peace of mind in an unpredictable blockchain ecosystem.
 
